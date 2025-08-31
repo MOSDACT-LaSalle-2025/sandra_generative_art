@@ -1,7 +1,5 @@
-//aun en proceso ..... 
-
-int num = 05;   
-int range = 40;    
+int num = 02;   
+int range = 50;    
 
 float[] ax = new float[num];
 float[] ay = new float[num];

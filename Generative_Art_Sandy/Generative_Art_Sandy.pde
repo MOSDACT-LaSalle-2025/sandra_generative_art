@@ -1,3 +1,8 @@
+// Sandra Gomez 
+// Date: 31/07/25
+// Location: Barcelona, Spain
+// Description: generative artwork created in Processing where thick, colorful strokes either follow the mouse or drift randomly. Each run produces unique organic patterns, reflecting the balance between control and chaos.
+
 int num = 02;   
 int range = 50;    
 

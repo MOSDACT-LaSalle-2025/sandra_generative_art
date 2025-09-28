@@ -1,6 +1,6 @@
 # sandra_generative_art
 Sandra Gómez
-Location & Date: Barcelona, 07/31/2025
+Barcelona, 07/31/2025
 Technique: Processing – Interactive generative creative coding
 
 Concept
